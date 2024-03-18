@@ -21,12 +21,4 @@ The primary objective is to predict the likelihood of a liability customer accep
 - KNN yielded an accuracy of 96% without the 'Experience' feature.
 - Naive Bayes demonstrated comparable performance with and without the 'Experience' feature, achieving an accuracy of approximately 85%.
 
-### Conclusion
-- Logistic Regression showed the highest accuracy among the models, suggesting its suitability for predicting personal loan acceptance.
-- The inclusion of the 'Experience' feature slightly improved model performance, indicating its relevance in prediction.
-- Further optimization, such as feature engineering and ensemble methods, could enhance model accuracy and robustness.
-
----
-
-### Resume Line (XYZ Format)
-Implemented supervised learning algorithms including Logistic Regression, K-Nearest Neighbors, and Naive Bayes to predict personal loan acceptance, achieving up to 94.60% accuracy on real-world banking data.
+----
