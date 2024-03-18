@@ -16,14 +16,6 @@ The primary objective is to predict the likelihood of a liability customer accep
 4. **Model Evaluation**: Assessing model performance through accuracy metrics and confusion matrices.
 5. **Optimization**: Iteratively refining models by considering feature inclusion, scaling, and algorithm selection.
 
-### Technologies Used
-- Python
-- Pandas
-- NumPy
-- Seaborn
-- Matplotlib
-- Scikit-learn
-
 ### Results
 - Logistic Regression achieved an accuracy of 94.60% with the 'Experience' feature included.
 - KNN yielded an accuracy of 90.93% without the 'Experience' feature.
